@@ -1,0 +1,30 @@
+h1 {
+    font-weight: 700;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.biglist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+    margin: 20px;
+}
+
+.mainList {
+    color: rgba(190, 101, 0, 0.861);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 200 px;
+    padding: 5px;
+    margin: 20px;
+}
+
+.objects {
+    color: rgba(95, 29, 0, 0.826);
+}
