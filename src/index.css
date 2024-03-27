@@ -1,3 +1,8 @@
+body {
+    background-image: url("https://cdn.midjourney.com/5c6103c5-f7a0-4452-a8cf-2d61281015bb/0_1.webp");
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
+
 h1 {
     font-weight: 700;
     text-decoration: underline;
@@ -14,7 +19,7 @@ h1 {
 }
 
 .mainList {
-    color: rgba(190, 101, 0, 0.861);
+    color: rgba(0, 0, 112);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -26,5 +31,5 @@ h1 {
 }
 
 .objects {
-    color: rgba(95, 29, 0, 0.826);
+    color: rgb(37, 11, 73);
 }
